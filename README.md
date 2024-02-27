@@ -5,5 +5,6 @@ Several API options are available for interacting with the SDK:
 
 this repository is copy for support SPM
 
-Source: [Documentation](https://jivochat.github.io/JivoSDK-iOS/)
-        https://github.com/JivoChat/JivoSDK-iOS
+Sources: [Documentation](https://jivochat.github.io/JivoSDK-iOS/)
+
+        [SDK](https://github.com/JivoChat/JivoSDK-iOS)
